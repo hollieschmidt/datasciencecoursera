@@ -1,2 +1,2 @@
 # datasciencecoursera
-## Just trying things out here!
+## Just trying things out here! :-)
